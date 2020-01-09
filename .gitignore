@@ -1,0 +1,11 @@
+# build output
+_build/
+
+# temp
+.vscode/
+
+# all files under docs/
+docs/
+
+# except the .nojekyll file
+!docs/.nojekyll

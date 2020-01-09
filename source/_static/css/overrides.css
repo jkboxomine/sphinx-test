@@ -1,0 +1,17 @@
+.wy-nav-side {
+  font-size: 1.125rem;
+}
+
+.wy-nav-top {
+  line-height: 2rem;
+}
+
+.wy-nav-content-wrap {
+  background: #f0f0f0;
+}
+
+.wy-nav-content {
+  background: white;
+  max-width: 960px;
+  margin: 0;
+}
